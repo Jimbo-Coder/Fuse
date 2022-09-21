@@ -1,6 +1,6 @@
 
 function greett()
-   print("suck balls")
+   print("testing 3")
 end
 
 export(greett)
