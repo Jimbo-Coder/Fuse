@@ -1,0 +1,100 @@
+00: Sun                        
+01: Earth                   
+02: Moon                    
+03: Planet                  
+04: Planetary Satellite     
+05: Minor Planet            
+06: Comet                   
+07: Sky Background          
+08: Great Red Spot          
+09:                         
+10: WC                      
+11: WN                      
+12: Main Sequence O         
+13: Supergiant O            
+14: Oe                      
+15: Of                      
+16: O Subdwarf              
+17: WD O                    
+18: Post-AGB Star           
+19: Other Strong UV source  
+20: B0-B2 IV-V              
+21: B3-B5 IV-V              
+22: B6-B9.5 IV-V            
+23: B0-B2 I-III             
+24: B3-B5 I-III             
+25: B6-B9.5 I-III           
+26: Be                      
+27: Bp                      
+28: B Subdwarf              
+29: WDB                     
+30: A0-3 IV-V               
+31: A4-9 IV-V               
+32: A0-3 I-III              
+33: A4-9 I-III              
+34: Ae                      
+35: Am                      
+36: Ap                      
+37: WDA                     
+38: Horiz. Branch Stars     
+39: Composite Spectra       
+40: F0-2                    
+41: F3-9                    
+42: Fp                      
+43: Late-type Degenerates   
+44: G IV-V                  
+45: G I-III                 
+46: K IV-V                  
+47: K I-III                 
+48: M IV-V                  
+49: M I-III                 
+50: R, N, or S Type Star
+51: Long Period Variables
+52: Irregular Variables
+53: Regular Variables
+54: Dwarf Novae
+55: Classical Novae
+56: Supernovae
+57: Symbiotic Stars
+58: T Tauri Stars
+59: X-ray Source
+60: Shell Star
+61: Eta Carinae
+62: Pulsar
+63: Nova-like
+64: Other
+65: Misidentified Targets
+66: Interacting Binaries
+67:
+68:
+69: Herbig-Haro Object
+70: Central Star of Planetary Neb.
+71: Planetary Nebula
+72: H II Region
+73: Reflection Nebula
+74: Dark Cloud (Absorp. spectrum)
+75: Supernova Remnant
+76: Ring Nebula (Shock-ionized)
+77:
+78:
+79:
+80: Spiral Galaxy
+81: Elliptical Galaxy
+82: Irregular Galaxy
+83: Globular Cluster
+84: Seyfert Galaxy
+85: Quasar
+86: Radio Galaxy
+87: BL Lac Object
+88: Emission-line Galaxy (non-Seyfert)
+89: Starburst Galaxy
+90: Intergalactic Medium
+91:
+92:
+93:
+94:
+95:
+96:
+97:
+98:
+99:
