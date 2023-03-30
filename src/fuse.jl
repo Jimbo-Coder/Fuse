@@ -4,8 +4,8 @@ using Plots, DataFrames, CSV, FITSIO
 include("test.jl")
 
 function data1()
-   b = FITSIO.read_header("Desktop\\Classes 4-1\\Research\\data\\VI_129_fuse.dat.fits")
-   c = FITSIO.FITS("Desktop\\Classes 4-1\\Research\\data\\VI_129_fuse.dat.fits")
+   b = FITSIO.read_header("Desktop\\Classes_4-1\\Research\\data\\VI_129_fuse.dat.fits")
+   c = FITSIO.FITS("Desktop\\Classes_4-1\\Research\\data\\VI_129_fuse.dat.fits")
    return (b, c)
 end
 
